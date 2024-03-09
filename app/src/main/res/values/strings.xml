@@ -7,4 +7,5 @@
     <string name="BtnNuevaAlarma">Nueva alarma</string>
     <string name="BtnSincronizar">Sincronizar dispositivo</string>
     <string name="BtnAyuda">Ayuda</string>
+    <string name="MedicamentosTitle">Mis Medicamentos</string>
 </resources>
