@@ -13,6 +13,9 @@
         android:theme="@style/Theme.MediAlarmas"
         tools:targetApi="31">
         <activity
+            android:name=".Alarmas"
+            android:exported="false" />
+        <activity
             android:name=".Medicamentos"
             android:exported="false" />
         <activity

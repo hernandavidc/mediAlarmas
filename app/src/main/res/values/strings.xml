@@ -8,4 +8,8 @@
     <string name="BtnSincronizar">Sincronizar dispositivo</string>
     <string name="BtnAyuda">Ayuda</string>
     <string name="MedicamentosTitle">Mis Medicamentos</string>
+    <string name="btnVerCalendario">Ver calendario</string>
+    <string name="plaholderInputSearch">Filtra por nombre del medicamento</string>
+    <string name="medicamentoDescript">Neosaldina 300 mg\nUltima compra: 01/03/2024\nUnidades disponibles: 30\nFinalizan en: 30 días</string>
+    <string name="volver">Volver</string>
 </resources>

@@ -3,4 +3,7 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="Secondary">#6C757D</color>
+    <color name="BtnCalendario">#17A2B8</color>
+    <color name="stroke">#CED4DA</color>
+    <color name="warning">#DC3545</color>
 </resources>
