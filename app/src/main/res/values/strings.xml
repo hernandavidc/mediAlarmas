@@ -12,4 +12,7 @@
     <string name="plaholderInputSearch">Filtra por nombre del medicamento</string>
     <string name="medicamentoDescript">Neosaldina 300 mg\nUltima compra: 01/03/2024\nUnidades disponibles: 30\nFinalizan en: 30 días</string>
     <string name="volver">Volver</string>
+    <string name="alarmasTitle">Mis Alarmas</string>
+    <string name="alarmaDescrip">Neosaldina 300mg\nTipo de periocidad: cada 2 horas\nCantidad: 2\nObservación: Tomar sin liquido</string>
+    <string name="createAlarma">Crear alarma</string>
 </resources>

@@ -23,5 +23,10 @@ class MainActivity : AppCompatActivity() {
             val intent = Intent(this@MainActivity, Medicamentos::class.java)
             startActivity(intent)
         }
+        val btnAlarmas = findViewById<Button>(R.id.button_alarmas)
+        btnAlarmas.setOnClickListener {
+            val intent = Intent(this@MainActivity, Alarmas::class.java)
+            startActivity(intent)
+        }
     }
 }
