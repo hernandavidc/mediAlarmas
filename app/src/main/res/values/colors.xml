@@ -6,4 +6,5 @@
     <color name="BtnCalendario">#17A2B8</color>
     <color name="stroke">#CED4DA</color>
     <color name="warning">#DC3545</color>
+    <color name="titlesColor">#212529</color>
 </resources>

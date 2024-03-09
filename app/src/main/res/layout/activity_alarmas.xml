@@ -14,6 +14,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="24dp"
         android:text="@string/alarmasTitle"
+        android:textColorHint="@color/titlesColor"
         android:textSize="32sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -27,6 +28,7 @@
         android:layout_marginTop="24dp"
         android:backgroundTint="@color/BtnCalendario"
         android:text="@string/btnVerCalendario"
+        android:textColorHint="@color/white"
         android:textSize="20sp"
         app:cornerRadius="6dp"
         app:layout_constraintStart_toStartOf="parent"
@@ -115,6 +117,7 @@
                     android:layout_marginEnd="10dp"
                     android:orientation="horizontal"
                     android:text="Editar"
+                    android:textColorHint="@color/white"
                     app:cornerRadius="6dp" />
 
                 <Button
@@ -123,6 +126,7 @@
                     android:layout_height="wrap_content"
                     android:backgroundTint="@color/warning"
                     android:text="Eliminar"
+                    android:textColorHint="@color/white"
                     app:cornerRadius="6dp" />
             </LinearLayout>
         </LinearLayout>
@@ -146,6 +150,7 @@
             android:layout_marginBottom="0dp"
             android:backgroundTint="@color/Secondary"
             android:text="@string/volver"
+            android:textColorHint="@color/white"
             android:textSize="24sp"
             app:cornerRadius="6dp" />
 
@@ -156,6 +161,7 @@
             android:layout_marginBottom="0dp"
             android:backgroundTint="@color/BtnCalendario"
             android:text="@string/createAlarma"
+            android:textColorHint="@color/white"
             android:textSize="24sp"
             app:cornerRadius="6dp" />
     </LinearLayout>
