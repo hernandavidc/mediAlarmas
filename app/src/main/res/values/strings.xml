@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">mediAlarmas</string>
+    <string name="TitleHome">Acceso MediAlarms</string>
+    <string name="Welcome">¡Bienvenido de nuevo!</string>
+    <string name="BtnAlarmas">Mis alarmas</string>
+    <string name="BtnMedicamentos">Mis medicamentos</string>
+    <string name="BtnNuevaAlarma">Nueva alarma</string>
+    <string name="BtnSincronizar">Sincronizar dispositivo</string>
+    <string name="BtnAyuda">Ayuda</string>
 </resources>
